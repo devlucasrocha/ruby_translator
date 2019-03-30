@@ -8,7 +8,7 @@ To use the script, firstly you have to crate an yandex account, thereafter you s
     "key":"<YANDEX API KEY>"
 }
 ```
-#### [NOTE: If you're using windows, is better you run cmd as administrator]
+
 &nbsp;
 For example your code should looks like the code below:
 
@@ -28,6 +28,7 @@ Alright! Now everything is done, let's use the script!
 $ gem install json
 $ gem install rest-client
 ```
+#### [NOTE: If you're using windows, is better you run cmd as administrator]
 
 Done! Now you can run the script many times that you want to!
 
